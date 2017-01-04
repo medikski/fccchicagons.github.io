@@ -8,7 +8,7 @@ git checkout branch-name-here
 #to see what branch you're on
 git branch
 
-#to add changes and commit, first be sure you're on master branch
+#to add changes and commit
 git add .
 git commit -m "short description of what you did here"
 
